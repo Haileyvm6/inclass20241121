@@ -7,6 +7,9 @@ namespace inclass20241121
 {
     public class Hellowworld
     {
-
+        public static void SayHello()
+        {
+            Console.WriteLine("Hello from Hellowworld.SayHello()");
+        }
     }
 }
