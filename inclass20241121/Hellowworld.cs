@@ -7,5 +7,6 @@ namespace inclass20241121
 {
     public class Hellowworld
     {
+        Console.writeline("hellowworld(person A")
     }
 }
